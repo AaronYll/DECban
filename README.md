@@ -1,7 +1,7 @@
 ## DECban: Full-length circRNA-RBP interaction sites prediction by using Double Embedding Cross branch attention Network
 
 
-If you want to reproduce this work, please follow these steps. 
+To reproduce this work, please follow these steps. 
 1. Prepare a conda virtual environment:
 ```
 conda create -n decban python=3.6.2
