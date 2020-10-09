@@ -4,7 +4,7 @@ from pytorch_lightning import Trainer
 # from RNNModule import LSTM
 # from BiLstmAttModule import BiLstmAttention
 # from CNNModule import CnnNet
-from DECbanModule import DECban
+from .DECbanModule import DECban
 from pytorch_lightning.callbacks import ModelCheckpoint, EarlyStopping
 from test_tube import Experiment, HyperOptArgumentParser
 import torch
