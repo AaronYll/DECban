@@ -9,7 +9,7 @@ grpcio==1.32.0
 idna==2.10
 imageio==2.9.0
 importlib-metadata==2.0.0
-joblib==0.17.0
+joblib==1.2.0
 Markdown==3.3
 numpy==1.19.2
 oauthlib==3.1.0
